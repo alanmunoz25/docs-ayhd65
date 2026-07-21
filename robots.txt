@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-kl9fgu.privatetalks.online/sitemap.xml
